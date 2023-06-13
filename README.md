@@ -8,5 +8,6 @@
 | [Trapping Rain Water (42)](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/HarisK03/leetcode-solutions/blob/2b77c375411913ac54c4452b8c01c4af84e53ad1/trapping_rainwater.py) &nbsp; &#124; &nbsp; [Video](https://www.youtube.com/watch?v=VfSvo69Oxd4) |
 | [Add Two Numbers (2)](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/HarisK03/leetcode-solutions/blob/2b77c375411913ac54c4452b8c01c4af84e53ad1/add_two_numbers.py) &nbsp; &#124; &nbsp; [Video](https://www.youtube.com/watch?v=s2_8re0tG_8) |
 | [3Sum (15)](https://leetcode.com/problems/3sum/) | [Python](https://github.com/HarisK03/leetcode-solutions/blob/2b77c375411913ac54c4452b8c01c4af84e53ad1/3sum.py) &nbsp; &#124; &nbsp; [Video](https://www.youtube.com/watch?v=JBUDTXXaBh0) |
+| [Best Time to Buy and Sell Stock (121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/HarisK03/leetcode-solutions/blob/8bfa13f8895d7d634f92bcf60e298b455e3af71f/best_time_to_buy_and_sell_stock.py) &nbsp; &#124; &nbsp; [Video](https://www.youtube.com/watch?v=Zzg1hMBFKI8) |
 
 Find all video solutions for the aforementioned LeetCode problems [here](https://www.youtube.com/playlist?list=PLpwFug7yBsWCwIr2OvwPgr_1DuCSFmJzy).
