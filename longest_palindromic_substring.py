@@ -4,8 +4,6 @@ Author: Haris Kamal
 Video Walkthrough: https://www.youtube.com/watch?v=yIOcadnp6TM
 """
 
-from typing import List
-
 
 class Solution:
     """
