@@ -1,5 +1,5 @@
 """
-LeetCode 11 - Container With Most Water
+LeetCode 11 - Container With Most Water Solution
 Author: Haris Kamal
 Video Walkthrough: https://www.youtube.com/watch?v=-CRqYDrEsJw
 """

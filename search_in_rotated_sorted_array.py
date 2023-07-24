@@ -1,5 +1,5 @@
 """
-LeetCode 33 - Search in Rotated Sorted Array
+LeetCode 33 - Search in Rotated Sorted Array Solution
 Author: Haris Kamal
 Video Walkthrough: https://www.youtube.com/watch?v=RcGo-qjr5UQ
 """

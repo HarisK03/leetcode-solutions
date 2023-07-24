@@ -1,5 +1,5 @@
 """
-LeetCode 4 - Median of Two Sorted Arrays
+LeetCode 4 - Median of Two Sorted Arrays Solution
 Author: Haris Kamal
 Video Walkthrough: https://www.youtube.com/watch?v=z44F7FbMIQw
 """

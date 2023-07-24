@@ -1,5 +1,5 @@
 """
-LeetCode 20 - Valid Parentheses
+LeetCode 20 - Valid Parentheses Solution
 Author: Haris Kamal
 Video Walkthrough: https://www.youtube.com/watch?v=a5N9WXNrT1k
 """
