@@ -9,7 +9,7 @@ from typing import List
 
 class Solution:
     """
-    Solution 1: Slow and Fast Pointers
+    Solution 1: Slow and Fast Pointers Solution
     Time Complexity: O(n)
     Space Complexity: O(1)
     """

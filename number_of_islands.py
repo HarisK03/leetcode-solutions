@@ -9,7 +9,7 @@ from typing import List
 
 class Solution:
     """
-    Solution 1: DFS
+    Solution 1: DFS Solution
     Time Complexity: O(mn)
     Space Complexity: O(1)
     """

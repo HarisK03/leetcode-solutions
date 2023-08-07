@@ -7,7 +7,7 @@ Video Walkthrough: https://www.youtube.com/watch?v=yIOcadnp6TM
 
 class Solution:
     """
-    Solution 1: Expand From Center
+    Solution 1: Expand From Center Solution
     Time Complexity: O(n²)
     Space Complexity: O(1)
 

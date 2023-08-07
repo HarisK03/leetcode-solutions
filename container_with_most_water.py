@@ -9,7 +9,7 @@ from typing import List
 
 class Solution:
     """
-    Solution 1: Two Pointers
+    Solution 1: Two Pointers Solution
     Time Complexity: O(n)
     Space Complexity: O(1)
     """

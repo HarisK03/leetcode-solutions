@@ -9,7 +9,7 @@ from typing import List
 
 class Solution:
     """
-    Solution 1: Binary Search
+    Solution 1: Binary Search Solution
     Time Complexity: O(log(n))
     Space Complexity: O(1)
     """
