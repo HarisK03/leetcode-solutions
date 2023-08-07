@@ -4,6 +4,8 @@ Author: Haris Kamal
 Video Walkthrough: https://www.youtube.com/watch?v=UFAEGRkpV8s
 """
 
+from typing import List
+
 
 class Solution:
     """
@@ -12,7 +14,7 @@ class Solution:
     Space Complexity: O(1)
     """
 
-    def findDuplicate(self, nums):
+    def findDuplicate(self, nums: List[int]) -> int:
         slow, fast = nums[0], nums[0]
 
         while True:
