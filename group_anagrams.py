@@ -11,7 +11,7 @@ from typing import List
 class Solution:
     """
     Solution 1: Optimal Solution
-    Time Complexity: O(nlog(k))
+    Time Complexity: O(mn)
     Space Complexity: O(n)
     """
 
